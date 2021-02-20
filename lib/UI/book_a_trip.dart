@@ -259,7 +259,6 @@ class _BookATripState extends State<BookATrip> {
                   // Expanded(flex: 1,child:Text("OPEN"),),
                   Expanded(
                     child: Container(
-                      /* Hello world*/
                       alignment: Alignment.center,
                       child: Text("OPEN"),
                       color: Colors.white,
